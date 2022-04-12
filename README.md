@@ -2,7 +2,7 @@
 
 ## The python script for Alfa Romeo Giorgio Head Unit firmwares
 
-It's capable to extract Alfa Rome Guilia/Stelvio firmwares gen1 to gen3. Yet it will not work with gen3_my20 since the content is encrypted there.
+It's capable to extract Alfa Romeo Guilia/Stelvio firmwares gen1 to gen3. Yet it will not work with gen3_my20 since the content is encrypted there.
 
 Usage:
 
