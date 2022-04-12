@@ -8,7 +8,7 @@ def main():
     if len(sys.argv) < 2:
         print("Too few arguments")
         print("Usage: main.py firmware_folder_path\n")
-        print("As result you're gonna get firmware_folder_path_out folder with the extracted content")
+        print("As result you're gonna get out folder with the extracted content in the same dir as firmware folder")
         return
 
     folder_path = sys.argv[1]
